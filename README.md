@@ -1,5 +1,5 @@
-<img src='images/picture.05.jpg'> </img>
-<img src='images/picture.03.jpg'> </img>
+<img src='images/picture.01.jpg'> </img>
+<img src='images/picture.02.jpg'> </img>
 
 ![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=깃허브%20특강&fontSize=90)
 
